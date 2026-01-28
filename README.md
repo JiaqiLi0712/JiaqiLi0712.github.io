@@ -6,4 +6,4 @@ I am a Statistics major currently studying at Capital University of Economics an
 
 My academic background focuses on statistical analysis, data reasoning, and quantitative methods.
 
-
+Contact me: marisa520@arizona.edu

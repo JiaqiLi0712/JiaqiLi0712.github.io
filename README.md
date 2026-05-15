@@ -8,12 +8,9 @@ My academic background focuses on statistical analysis, data reasoning, and quan
 
 ## Core Skills
 - Programming Language: R
-- Data Processing: Data cleaning, missing value inspection, outlier handling (Winsorization), feature standardization, data manipulation
-- Statistical Analysis: Correlation analysis, multicollinearity test (VIF), linearity assumption test (Box-Tidwell), normality test (Shapiro-Wilk), class imbalance analysis
-- Machine Learning Modeling: CART, Logistic Regression, LASSO, Ridge, GBM, Random Forest, Naive Bayes, Bayesian Network
-- Model Evaluation: 5-fold cross-validation, accuracy, precision, recall, AUC, model performance comparison
-- Data Visualization: Distribution visualization, correlation heatmap
-- Tools & Libraries: readxl, dplyr, ggplot2, caret, glmnet, e1071, MASS, gbm, bnlearn, pROC, car
+- Data Preprocessing: Data cleaning, outlier handling, feature standardization
+- Statistical & Machine Learning Models: Regression models, discriminative models, tree-based methods
+- Data Visualization
 
 ## Project Experience
 ### Credit Default Risk Prediction

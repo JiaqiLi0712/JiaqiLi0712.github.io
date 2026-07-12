@@ -38,4 +38,12 @@ My academic background focuses on statistical analysis, data reasoning, and quan
 - Personal Contribution: Responsible for result collation, revision, and final formatting. Helped organize outputs, polish written sections, and prepare final submission materials.
 - GitHub repository: https://github.com/JiaqiLi0712/data_science_final_project
 
+### Online Retail Transaction Deep Preprocessing and Ensemble Learning Modeling
+- A team-based machine learning project based on the UCI Online Retail Dataset, focusing on cancelled order prediction and abnormal transaction detection in e-commerce scenarios.
+- Performed comprehensive data preprocessing and feature engineering, including missing value analysis, missing pattern encoding, data correction, outlier handling, Capping, Box-Cox transformation, time feature extraction, discretization, and categorical variable encoding.
+- Built and compared multiple classification and anomaly detection models, including Logistic Regression, Random Forest, Isolation Forest, and LightGBM, with evaluation based on PR-AUC, Precision, Recall, and F1-score under different sampling strategies.
+- Addressed class imbalance issues by comparing original data, SMOTE oversampling, and random undersampling approaches, and analyzed the impact of preprocessing strategies on model performance.
+- Personal Contribution: Completed Part 3 and Part 5 implementation, including data discretization, categorical variable transformation, smoothing encoding, feature scaling, and data reduction. Responsible for creating presentation slides and delivering project presentation.
+- GitHub repository: https://github.com/JiaqiLi0712/jqLi_big_data_preprocessing
+
 Contact me: a20041229a@163.com

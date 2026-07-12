@@ -7,7 +7,7 @@ I am a Statistics major currently studying at Capital University of Economics an
 My academic background focuses on statistical analysis, data reasoning, and quantitative methods.
 
 ## Core Skills
-- Programming Language: R
+- Programming Language: R, python
 - Data Preprocessing: Data cleaning, outlier handling, feature standardization
 - Statistical & Machine Learning Models: Regression models, discriminative models, tree-based methods
 - Data Visualization
